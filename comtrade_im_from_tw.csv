@@ -1,0 +1,607 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1877,,8219,,,2
+H5,2017,2017,2017,6,1,1,Import,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,23209,,1546387,,,2
+H5,2017,2017,2017,6,1,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,91453,,,,5759867,,77307115,,,4
+H5,2017,2017,2017,6,1,2,Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,43,,1141,,,4
+H5,2017,2017,2017,6,1,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,236370,,12776032,,,2
+H5,2017,2017,2017,6,1,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,50,,1474,,,2
+H5,2017,2017,2017,6,1,1,Import,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,185,,,,3267,,97421,,,0
+H5,2017,2017,2017,6,1,1,Import,51,Armenia,ARM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,42,,,,625,,20121,,,0
+H5,2017,2017,2017,6,1,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,758968,,53453467,,,2
+H5,2017,2017,2017,6,1,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,724,,27879,,,2
+H5,2017,2017,2017,6,1,1,Import,60,Bermuda,BMU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9,,,,509,,6836,,,4
+H5,2017,2017,2017,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1354,,,,22937,,279281,,,0
+H5,2017,2017,2017,6,1,1,Import,70,Bosnia Herzegovina,BIH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,6836,,98113,,,2
+H5,2017,2017,2017,6,1,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11353,,,,142952,,10703020,,,0
+H5,2017,2017,2017,6,1,1,Import,96,Brunei Darussalam,BRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,954,,,,6831,,91736,,,4
+H5,2017,2017,2017,6,1,1,Import,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,374,,,,4513,,30872,,,0
+H5,2017,2017,2017,6,1,2,Export,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10,,,,92,,6065,,,0
+H5,2017,2017,2017,6,1,1,Import,104,Myanmar,MMR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,787,,,,5688,,76394,,,6
+H5,2017,2017,2017,6,1,1,Import,112,Belarus,BLR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,6323,,,,89057,,207300,,,0
+H5,2017,2017,2017,6,1,1,Import,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,225,,3032,,,6
+H5,2017,2017,2017,6,1,2,Export,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1638,,42785,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,80754089,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,610,,,,0,,105730,,,4
+H5,2017,2017,2017,6,1,3,Re-Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,42,,,,0,,41856,,,0
+H5,2017,2017,2017,6,1,1,Import,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,2,,40,,,4
+H5,2017,2017,2017,6,1,2,Export,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,7,,,,12,,394,,,4
+H5,2017,2017,2017,6,1,1,Import,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,14172,,,,882694,,11847252,,,4
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2346333,,31509289,,,6
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1515586,,47823071,,,6
+H5,2017,2017,2017,6,1,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,13537,,,,189406,,13211841,,,0
+H5,2017,2017,2017,6,1,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,106780,,3265972,,,2
+H5,2017,2017,2017,6,1,1,Import,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,338708,,,6
+H5,2017,2017,2017,6,1,1,Import,196,Cyprus,CYP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,340,,,,4855,,57251,,,0
+H5,2017,2017,2017,6,1,1,Import,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,63213,,,,857344,,24867793,,,0
+H5,2017,2017,2017,6,1,2,Export,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3,,,,68,,4342,,,0
+H5,2017,2017,2017,6,1,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,54614,,,,778297,,14647056,,,0
+H5,2017,2017,2017,6,1,2,Export,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,19,,,,635,,30180,,,0
+H5,2017,2017,2017,6,1,1,Import,214,Dominican Rep.,DOM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,35960,,482919,,,6
+H5,2017,2017,2017,6,1,2,Export,214,Dominican Rep.,DOM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,43,,1371,,,6
+H5,2017,2017,2017,6,1,1,Import,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2080,,,,26458,,672323,,,0
+H5,2017,2017,2017,6,1,1,Import,222,El Salvador,SLV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,12246,,274739,,,2
+H5,2017,2017,2017,6,1,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4266,,,,59060,,1621831,,,0
+H5,2017,2017,2017,6,1,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,15992,,,,197097,,5295212,,,0
+H5,2017,2017,2017,6,1,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,767759,,51979018,,,2
+H5,2017,2017,2017,6,1,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,44,,2169,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,156957,,,,2016237,,70780135,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,377,,,,3324,,814575,,,0
+H5,2017,2017,2017,6,1,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,17263,,,,196201,,1285660,,,0
+H5,2017,2017,2017,6,1,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,13668,,523562,,,2
+H5,2017,2017,2017,6,1,2,Export,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,113,,60,,,2
+H5,2017,2017,2017,6,1,1,Import,340,Honduras,HND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,203372,,,,17368,,496776,,,0
+H5,2017,2017,2017,6,1,1,Import,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,19429,,,,477948,,6418451,,,4
+H5,2017,2017,2017,6,1,2,Export,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,55,,,,412,,13001,,,4
+H5,2017,2017,2017,6,1,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5495,,,,70211,,555466,,,0
+H5,2017,2017,2017,6,1,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3053,,,,43793,,1871473,,,0
+H5,2017,2017,2017,6,1,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,11288,,407163,,,2
+H5,2017,2017,2017,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,3465,,4705,,,2
+H5,2017,2017,2017,6,1,1,Import,364,Iran,IRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,15334,,131887,,,2
+H5,2017,2017,2017,6,1,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5191,,,,57599,,1985619,,,0
+H5,2017,2017,2017,6,1,2,Export,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,11,,563,,,0
+H5,2017,2017,2017,6,1,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,29533,,,,494744,,6644000,,,4
+H5,2017,2017,2017,6,1,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,63,,2000,,,6
+H5,2017,2017,2017,6,1,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,105584,,,,1552163,,27519180,,,0
+H5,2017,2017,2017,6,1,2,Export,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,142,,,,509,,175560,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,148367,,,,5592329,,75100302,,,4
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,45,,,,1252,,39527,,,4
+H5,2017,2017,2017,6,1,1,Import,398,Kazakhstan,KAZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,15238,,289670,,,2
+H5,2017,2017,2017,6,1,1,Import,400,Jordan,JOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,638,,,,492,,6619,,,4
+H5,2017,2017,2017,6,1,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,498804,,37886289,,,2
+H5,2017,2017,2017,6,1,2,Export,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,251,,22704,,,2
+H5,2017,2017,2017,6,1,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,358,,,,4855,,90700,,,0
+H5,2017,2017,2017,6,1,1,Import,417,Kyrgyzstan,KGZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,938,,,,12907,,41310,,,0
+H5,2017,2017,2017,6,1,1,Import,422,Lebanon,LBN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,29946,,326078,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,155,,205,,,2
+H5,2017,2017,2017,6,1,1,Import,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4784,,,,67705,,854589,,,0
+H5,2017,2017,2017,6,1,2,Export,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5,,,,96,,3549,,,0
+H5,2017,2017,2017,6,1,1,Import,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,983,,,,14960,,177396,,,0
+H5,2017,2017,2017,6,1,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1782,,,,103441,,1692604,,,0
+H5,2017,2017,2017,6,1,1,Import,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,14,,782,,,0
+H5,2017,2017,2017,6,1,1,Import,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5004,,,,209467,,2811404,,,4
+H5,2017,2017,2017,6,1,2,Export,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,96,,,,3662,,95616,,,4
+H5,2017,2017,2017,6,1,1,Import,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,50,,14457,,,2
+H5,2017,2017,2017,6,1,1,Import,480,Mauritius,MUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1622,,,,23249,,312226,,,4
+H5,2017,2017,2017,6,1,1,Import,496,Mongolia,MNG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,128,,,,1664,,37910,,,0
+H5,2017,2017,2017,6,1,1,Import,499,Montenegro,MNE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,74,,,,1111,,6827,,,0
+H5,2017,2017,2017,6,1,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1543,,45157,,,2
+H5,2017,2017,2017,6,1,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,230598,,,,3228592,,140624852,,,0
+H5,2017,2017,2017,6,1,2,Export,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,46,,,,649,,41085,,,0
+H5,2017,2017,2017,6,1,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,36437,,,,2318126,,31130499,,,4
+H5,2017,2017,2017,6,1,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,7764,,244534,,,2
+H5,2017,2017,2017,6,1,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,59726,,,,803929,,30441450,,,0
+H5,2017,2017,2017,6,1,1,Import,586,Pakistan,PAK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,295,,,,219,,2944,,,4
+H5,2017,2017,2017,6,1,1,Import,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,182803,,4148764,,,2
+H5,2017,2017,2017,6,1,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,32091,,1666558,,,6
+H5,2017,2017,2017,6,1,1,Import,604,Peru,PER,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4577,,,,76043,,2901286,,,0
+H5,2017,2017,2017,6,1,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,71630,,,,1106672,,12025500,,,0
+H5,2017,2017,2017,6,1,2,Export,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,6,,,,110,,3001,,,0
+H5,2017,2017,2017,6,1,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,4216,,45865,,,2
+H5,2017,2017,2017,6,1,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,13184,,,,212471,,1998274,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,19780,,,,314783,,4386030,,,0
+H5,2017,2017,2017,6,1,1,Import,688,Serbia,SRB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1483,,16826,,,2
+H5,2017,2017,2017,6,1,1,Import,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9458,,,,129704,,1741828,,,4
+H5,2017,2017,2017,6,1,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,120,,,,43,,1361,,,4
+H5,2017,2017,2017,6,1,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10291,,,,138681,,4941015,,,0
+H5,2017,2017,2017,6,1,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,6259,,,,85481,,3691081,,,0
+H5,2017,2017,2017,6,1,1,Import,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,16425,,,,,,14237334,,,0
+H5,2017,2017,2017,6,1,2,Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,49,,,,25,,663,,,4
+H5,2017,2017,2017,6,1,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,70805,,,,946309,,36477253,,,0
+H5,2017,2017,2017,6,1,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,134,,,,1949,,193787,,,0
+H5,2017,2017,2017,6,1,4,Re-Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,37,,3910,,,0
+H5,2017,2017,2017,6,1,1,Import,729,Sudan,SDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,136,,1836,,,6
+H5,2017,2017,2017,6,1,1,Import,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,90,,997,,,0
+H5,2017,2017,2017,6,1,1,Import,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,122443,,,,1605050,,20151014,,,4
+H5,2017,2017,2017,6,1,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,50873,,,,757770,,53990456,,,0
+H5,2017,2017,2017,6,1,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9,,,,138,,31137,,,0
+H5,2017,2017,2017,6,1,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,127615,,7848435,,,6
+H5,2017,2017,2017,6,1,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,9550,,62673,,,6
+H5,2017,2017,2017,6,1,3,Re-Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",8,Weight in kilograms,9,,,,9,,249,,,0
+H5,2017,2017,2017,6,1,4,Re-Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",8,Weight in kilograms,30,,,,30,,249,,,0
+H5,2017,2017,2017,6,1,1,Import,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2047,,,,27563,,929764,,,0
+H5,2017,2017,2017,6,1,1,Import,807,North Macedonia,MKD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,490,,,,7766,,181666,,,0
+H5,2017,2017,2017,6,1,1,Import,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,495915,,,,5562521,,103177326,,,0
+H5,2017,2017,2017,6,1,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1843,,,,11494,,773069,,,4
+H5,2017,2017,2017,6,1,3,Re-Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,86,,,,1537,,197967,,,0
+H5,2017,2017,2017,6,1,1,Import,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1219,,26218,,,2
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,575790,,,,29565082,,396813152,,,4
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1767,,,,0,,567884,,,4
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,104,,,,0,,129765,,,0
+H5,2017,2017,2017,6,1,1,Import,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2856,,,,45296,,1967610,,,0
+H5,2017,2017,2017,6,1,1,Import,894,Zambia,ZMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,27000,,11229,,,2
+H5,2018,2018,2018,6,1,1,Import,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,22585,,1564869,,,2
+H5,2018,2018,2018,6,1,1,Import,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,118,,,,1671,,21122,,,0
+H5,2018,2018,2018,6,1,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,12676,,,,185092,,10701504,,,0
+H5,2018,2018,2018,6,1,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,94971,,,,5902905,,87118751,,,4
+H5,2018,2018,2018,6,1,2,Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,310,,,,5135,,139463,,,4
+H5,2018,2018,2018,6,1,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,219317,,12534455,,,2
+H5,2018,2018,2018,6,1,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,93,,11928,,,2
+H5,2018,2018,2018,6,1,1,Import,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,159,,,,3591,,126660,,,0
+H5,2018,2018,2018,6,1,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,558193,,42605550,,,2
+H5,2018,2018,2018,6,1,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,45,,8100,,,2
+H5,2018,2018,2018,6,1,1,Import,60,Bermuda,BMU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,17,,,,541,,7987,,,4
+H5,2018,2018,2018,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,504,,,,13775,,302187,,,0
+H5,2018,2018,2018,6,1,1,Import,70,Bosnia Herzegovina,BIH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,11508,,150450,,,2
+H5,2018,2018,2018,6,1,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,7807,,,,98218,,9259066,,,0
+H5,2018,2018,2018,6,1,1,Import,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,344942,,482825,,,2
+H5,2018,2018,2018,6,1,1,Import,96,Brunei Darussalam,BRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,176,,,,19568,,288804,,,4
+H5,2018,2018,2018,6,1,1,Import,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,18,,333,,,0
+H5,2018,2018,2018,6,1,2,Export,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10,,,,92,,5689,,,0
+H5,2018,2018,2018,6,1,1,Import,112,Belarus,BLR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,12991,,,,166351,,418900,,,0
+H5,2018,2018,2018,6,1,2,Export,112,Belarus,BLR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5,,,,92,,600,,,0
+H5,2018,2018,2018,6,1,1,Import,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,154,,2275,,,6
+H5,2018,2018,2018,6,1,2,Export,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2940,,79861,,,6
+H5,2018,2018,2018,6,1,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,95097,,,,,,82793473,,,0
+H5,2018,2018,2018,6,1,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,448,,,,2102,,57111,,,4
+H5,2018,2018,2018,6,1,1,Import,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,13292,,,,857402,,12654080,,,4
+H5,2018,2018,2018,6,1,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,37157,,,,2130932,,31449634,,,4
+H5,2018,2018,2018,6,1,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,445971,,,,1165290,,31638535,,,6
+H5,2018,2018,2018,6,1,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11085,,,,157514,,10986638,,,0
+H5,2018,2018,2018,6,1,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,98783,,2577498,,,2
+H5,2018,2018,2018,6,1,2,Export,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,84,,70,,,2
+H5,2018,2018,2018,6,1,1,Import,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1099,,,,18838,,182106,,,0
+H5,2018,2018,2018,6,1,1,Import,196,Cyprus,CYP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3504,,,,23604,,209441,,,0
+H5,2018,2018,2018,6,1,1,Import,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,78845,,,,870315,,28018066,,,0
+H5,2018,2018,2018,6,1,2,Export,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,28,,6289,,,0
+H5,2018,2018,2018,6,1,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,46171,,,,625386,,10689307,,,0
+H5,2018,2018,2018,6,1,2,Export,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3,,,,125,,6716,,,0
+H5,2018,2018,2018,6,1,1,Import,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1466,,,,22650,,1312154,,,0
+H5,2018,2018,2018,6,1,1,Import,222,El Salvador,SLV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,9616,,441326,,,2
+H5,2018,2018,2018,6,1,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4356,,,,57821,,1727689,,,0
+H5,2018,2018,2018,6,1,1,Import,242,Fiji,FJI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,17,,,,182,,2696,,,4
+H5,2018,2018,2018,6,1,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,30156,,,,395757,,11199585,,,0
+H5,2018,2018,2018,6,1,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,0,,,,3113325,,45948400,,,4
+H5,2018,2018,2018,6,1,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,15,,,,3362,,91320,,,4
+H5,2018,2018,2018,6,1,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,117489,,,,1589321,,66124349,,,0
+H5,2018,2018,2018,6,1,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,182,,,,1649,,433702,,,0
+H5,2018,2018,2018,6,1,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,491,,1018,,,2
+H5,2018,2018,2018,6,1,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,12795,,,,131933,,648929,,,0
+H5,2018,2018,2018,6,1,1,Import,304,Greenland,GRL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1587,,4716,,,2
+H5,2018,2018,2018,6,1,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,12951,,651351,,,2
+H5,2018,2018,2018,6,1,1,Import,340,Honduras,HND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,9898,,496148,,,2
+H5,2018,2018,2018,6,1,1,Import,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,21296,,,,339541,,5011166,,,4
+H5,2018,2018,2018,6,1,2,Export,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,219,,,,591,,16077,,,4
+H5,2018,2018,2018,6,1,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4656,,,,64640,,482584,,,0
+H5,2018,2018,2018,6,1,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,15,,1000,,,0
+H5,2018,2018,2018,6,1,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,891,,,,17307,,1075834,,,0
+H5,2018,2018,2018,6,1,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,40734,,1648795,,,2
+H5,2018,2018,2018,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,62,,4793,,,2
+H5,2018,2018,2018,6,1,1,Import,364,Iran,IRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2795,,19736,,,2
+H5,2018,2018,2018,6,1,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,52370,,1820488,,,2
+H5,2018,2018,2018,6,1,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,616114,,9093000,,,6
+H5,2018,2018,2018,6,1,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,257,,7000,,,6
+H5,2018,2018,2018,6,1,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,37426,,,,489542,,22865611,,,0
+H5,2018,2018,2018,6,1,2,Export,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,60,,,,554,,151899,,,0
+H5,2018,2018,2018,6,1,1,Import,384,Côte d'Ivoire,CIV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,14,,24,,,2
+H5,2018,2018,2018,6,1,1,Import,388,Jamaica,JAM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,360,,7114,,,2
+H5,2018,2018,2018,6,1,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,142148,,,,5611856,,82823274,,,4
+H5,2018,2018,2018,6,1,2,Export,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,16,,,,633,,17203,,,4
+H5,2018,2018,2018,6,1,1,Import,398,Kazakhstan,KAZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,24013,,279866,,,2
+H5,2018,2018,2018,6,1,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,391408,,37287122,,,2
+H5,2018,2018,2018,6,1,2,Export,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,42,,4597,,,2
+H5,2018,2018,2018,6,1,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,570,,,,2389,,71561,,,0
+H5,2018,2018,2018,6,1,1,Import,417,Kyrgyzstan,KGZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,6,,,,48,,1511,,,0
+H5,2018,2018,2018,6,1,1,Import,422,Lebanon,LBN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2415,,183030,,,2
+H5,2018,2018,2018,6,1,1,Import,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4896,,,,72850,,973092,,,0
+H5,2018,2018,2018,6,1,2,Export,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,36,,4377,,,0
+H5,2018,2018,2018,6,1,1,Import,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1119,,,,14960,,248475,,,0
+H5,2018,2018,2018,6,1,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1838,,,,129509,,2209109,,,0
+H5,2018,2018,2018,6,1,1,Import,446,"China, Macao SAR",MAC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,482,,8379,,,2
+H5,2018,2018,2018,6,1,1,Import,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4143,,,,220018,,3247164,,,4
+H5,2018,2018,2018,6,1,2,Export,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,71,,,,1901,,51651,,,4
+H5,2018,2018,2018,6,1,1,Import,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,510,,,,2855,,42140,,,4
+H5,2018,2018,2018,6,1,1,Import,470,Malta,MLT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,20,,,,283,,3961,,,0
+H5,2018,2018,2018,6,1,1,Import,480,Mauritius,MUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5162,,,,27904,,399009,,,2
+H5,2018,2018,2018,6,1,1,Import,496,Mongolia,MNG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,366,,,,4718,,121235,,,0
+H5,2018,2018,2018,6,1,1,Import,499,Montenegro,MNE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,53,,,,808,,4863,,,0
+H5,2018,2018,2018,6,1,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,57,,,,753,,48734,,,0
+H5,2018,2018,2018,6,1,1,Import,516,Namibia,NAM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,70,,1037,,,6
+H5,2018,2018,2018,6,1,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,193995,,,,2715952,,149741578,,,0
+H5,2018,2018,2018,6,1,2,Export,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,116,,,,1624,,18513,,,0
+H5,2018,2018,2018,6,1,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,34631,,,,2432841,,35905395,,,4
+H5,2018,2018,2018,6,1,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,7966,,99593,,,2
+H5,2018,2018,2018,6,1,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,76294,,,,1029722,,30661346,,,0
+H5,2018,2018,2018,6,1,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,,,135,,,0
+H5,2018,2018,2018,6,1,1,Import,586,Pakistan,PAK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1080,,,,992,,14653,,,4
+H5,2018,2018,2018,6,1,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,27660,,1294457,,,2
+H5,2018,2018,2018,6,1,1,Import,604,Peru,PER,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4278,,,,73049,,3100399,,,0
+H5,2018,2018,2018,6,1,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,47207,,,,659644,,12581119,,,0
+H5,2018,2018,2018,6,1,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,221,,21957,,,2
+H5,2018,2018,2018,6,1,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4473,,,,71355,,714415,,,0
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,35790,,,,607942,,10486883,,,0
+H5,2018,2018,2018,6,1,1,Import,646,Rwanda,RWA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,74,,21697,,,2
+H5,2018,2018,2018,6,1,1,Import,688,Serbia,SRB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2035,,25729,,,2
+H5,2018,2018,2018,6,1,1,Import,690,Seychelles,SYC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,1,,449,,,0
+H5,2018,2018,2018,6,1,1,Import,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1751,,,,80164,,1183116,,,4
+H5,2018,2018,2018,6,1,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,18,,503,,,4
+H5,2018,2018,2018,6,1,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10644,,,,501104,,7395611,,,4
+H5,2018,2018,2018,6,1,2,Export,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,96,,,,3013,,81838,,,4
+H5,2018,2018,2018,6,1,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,8736,,,,123936,,4717626,,,0
+H5,2018,2018,2018,6,1,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,21530,,317762,,,6
+H5,2018,2018,2018,6,1,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2468,,67041,,,6
+H5,2018,2018,2018,6,1,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9203,,,,129001,,5930538,,,0
+H5,2018,2018,2018,6,1,1,Import,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",7,Volume in litres,1358655,,,,1358655,,12339006,,,0
+H5,2018,2018,2018,6,1,2,Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,3021,,232,,,2
+H5,2018,2018,2018,6,1,3,Re-Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",7,Volume in litres,795,,,,795,,5,,,0
+H5,2018,2018,2018,6,1,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,94513,,,,850392,,46213031,,,0
+H5,2018,2018,2018,6,1,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,33,,,,368,,36974,,,0
+H5,2018,2018,2018,6,1,1,Import,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,98,,815,,,0
+H5,2018,2018,2018,6,1,1,Import,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,117048,,,,1514622,,18466386,,,4
+H5,2018,2018,2018,6,1,2,Export,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,413,,6906,,,4
+H5,2018,2018,2018,6,1,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,836,,,,696193,,49388686,,,0
+H5,2018,2018,2018,6,1,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,76,,,,53,,9485,,,0
+H5,2018,2018,2018,6,1,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,57554,,5145500,,,2
+H5,2018,2018,2018,6,1,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1847,,77908,,,2
+H5,2018,2018,2018,6,1,3,Re-Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",8,Weight in kilograms,31,,,,31,,450,,,0
+H5,2018,2018,2018,6,1,1,Import,784,United Arab Emirates,ARE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,52046,,2562088,,,2
+H5,2018,2018,2018,6,1,1,Import,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1678,,,,22250,,739840,,,0
+H5,2018,2018,2018,6,1,1,Import,807,North Macedonia,MKD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,255,,,,5221,,135128,,,0
+H5,2018,2018,2018,6,1,1,Import,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,231473,,,,3517246,,87937332,,,0
+H5,2018,2018,2018,6,1,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1198,,,,8688,,490940,,,0
+H5,2018,2018,2018,6,1,1,Import,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2887,,2987,,,2
+H5,2018,2018,2018,6,1,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,622240,,,,31260023,,461354902,,,4
+H5,2018,2018,2018,6,1,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,706,,,,0,,264202,,,4
+H5,2018,2018,2018,6,1,3,Re-Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,128,,,,0,,128688,,,0
+H5,2018,2018,2018,6,1,1,Import,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1296,,,,19090,,1123223,,,0
+H5,2018,2018,2018,6,1,1,Import,894,Zambia,ZMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,32073,,12335,,,2
+H5,2019,2019,2019,6,1,1,Import,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,136,,,,1957,,13325,,,0
+H5,2019,2019,2019,6,1,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5075,,,,68128,,5983254,,,0
+H5,2019,2019,2019,6,1,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,93740,,,,,,78279808,,,4
+H5,2019,2019,2019,6,1,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,223426,,17399940,,,2
+H5,2019,2019,2019,6,1,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,124,,47257,,,2
+H5,2019,2019,2019,6,1,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,31966,,,,514688,,42271465,,,0
+H5,2019,2019,2019,6,1,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,10,,1480,,,0
+H5,2019,2019,2019,6,1,1,Import,70,Bosnia Herzegovina,BIH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,7873,,126092,,,2
+H5,2019,2019,2019,6,1,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10779,,,,135688,,15125729,,,0
+H5,2019,2019,2019,6,1,1,Import,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,243739,,334232,,,2
+H5,2019,2019,2019,6,1,1,Import,96,Brunei Darussalam,BRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,95,,,,,,159961,,,4
+H5,2019,2019,2019,6,1,2,Export,96,Brunei Darussalam,BRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,,,1107,,,4
+H5,2019,2019,2019,6,1,1,Import,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1270,,,,11728,,61183,,,0
+H5,2019,2019,2019,6,1,2,Export,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,9,,590,,,0
+H5,2019,2019,2019,6,1,1,Import,104,Myanmar,MMR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,8,,,,,,590,,,4
+H5,2019,2019,2019,6,1,1,Import,112,Belarus,BLR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11650,,,,139712,,528200,,,0
+H5,2019,2019,2019,6,1,2,Export,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,6512,,161785,,,2
+H5,2019,2019,2019,6,1,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,85900,,,,,,86175167,,,0
+H5,2019,2019,2019,6,1,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,6,,,,,,5742,,,4
+H5,2019,2019,2019,6,1,1,Import,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11069,,,,,,11976672,,,4
+H5,2019,2019,2019,6,1,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,22833,,,,242273,,20899559,,,0
+H5,2019,2019,2019,6,1,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,477007,,,,5859296,,33894382,,,0
+H5,2019,2019,2019,6,1,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,13593,,,,164262,,11275175,,,0
+H5,2019,2019,2019,6,1,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,60281,,3826176,,,2
+H5,2019,2019,2019,6,1,2,Export,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,174,,174,,,2
+H5,2019,2019,2019,6,1,1,Import,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1384,,,,19994,,286818,,,0
+H5,2019,2019,2019,6,1,1,Import,196,Cyprus,CYP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,714,,,,716,,121449,,,0
+H5,2019,2019,2019,6,1,1,Import,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,58172,,,,771706,,27501871,,,0
+H5,2019,2019,2019,6,1,2,Export,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,37,,5037,,,0
+H5,2019,2019,2019,6,1,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,29966,,,,403940,,5965692,,,0
+H5,2019,2019,2019,6,1,1,Import,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,12852,,393809,,,2
+H5,2019,2019,2019,6,1,1,Import,222,El Salvador,SLV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,4531,,276871,,,2
+H5,2019,2019,2019,6,1,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3128,,,,35044,,986125,,,0
+H5,2019,2019,2019,6,1,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3236,,,,5085,,10902770,,,6
+H5,2019,2019,2019,6,1,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,649720,,50985821,,,6
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,682,,61194,,,2
+H5,2019,2019,2019,6,1,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,85270,,,,1066600,,42344892,,,0
+H5,2019,2019,2019,6,1,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,88,,,,863,,277196,,,0
+H5,2019,2019,2019,6,1,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,12223,,75467,,,0
+H5,2019,2019,2019,6,1,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,8086,,,,94749,,529469,,,0
+H5,2019,2019,2019,6,1,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,16109,,766642,,,2
+H5,2019,2019,2019,6,1,1,Import,340,Honduras,HND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,10390,,212340,,,2
+H5,2019,2019,2019,6,1,1,Import,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,8316,,,,,,3520156,,,4
+H5,2019,2019,2019,6,1,2,Export,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4,,,,,,6682,,,4
+H5,2019,2019,2019,6,1,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4990,,,,69400,,474463,,,0
+H5,2019,2019,2019,6,1,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1169,,,,20219,,1106896,,,0
+H5,2019,2019,2019,6,1,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,28072,,969884,,,2
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,377,,18859,,,2
+H5,2019,2019,2019,6,1,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2989,,,,34845,,1170362,,,0
+H5,2019,2019,2019,6,1,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,6509000,,,6
+H5,2019,2019,2019,6,1,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,5000,,,6
+H5,2019,2019,2019,6,1,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,48390,,,,702866,,26590124,,,0
+H5,2019,2019,2019,6,1,2,Export,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,823,,,,1234,,221000,,,0
+H5,2019,2019,2019,6,1,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,104527,,,,,,73029560,,,4
+H5,2019,2019,2019,6,1,2,Export,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,18,,,,,,24252,,,4
+H5,2019,2019,2019,6,1,1,Import,398,Kazakhstan,KAZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,18691,,315881,,,2
+H5,2019,2019,2019,6,1,1,Import,400,Jordan,JOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2,,1112,,,2
+H5,2019,2019,2019,6,1,1,Import,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5405,,,,8208,,240092,,,6
+H5,2019,2019,2019,6,1,2,Export,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,,,29,,,4
+H5,2019,2019,2019,6,1,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,263781,,27034940,,,2
+H5,2019,2019,2019,6,1,2,Export,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,9,,4600,,,2
+H5,2019,2019,2019,6,1,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,33,,,,183,,47691,,,0
+H5,2019,2019,2019,6,1,1,Import,417,Kyrgyzstan,KGZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,21,,3273,,,0
+H5,2019,2019,2019,6,1,1,Import,418,Lao People's Dem. Rep.,LAO,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,6,,1850,,,0
+H5,2019,2019,2019,6,1,1,Import,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3491,,,,49629,,742030,,,0
+H5,2019,2019,2019,6,1,1,Import,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1932,,,,26078,,324269,,,0
+H5,2019,2019,2019,6,1,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1809,,,,125334,,2014953,,,0
+H5,2019,2019,2019,6,1,1,Import,446,"China, Macao SAR",MAC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,2515,,,6
+H5,2019,2019,2019,6,1,1,Import,450,Madagascar,MDG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10,,,,260,,4078,,,0
+H5,2019,2019,2019,6,1,1,Import,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4467,,,,,,4005815,,,4
+H5,2019,2019,2019,6,1,2,Export,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9,,,,,,15678,,,4
+H5,2019,2019,2019,6,1,1,Import,470,Malta,MLT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11,,,,278,,2408,,,0
+H5,2019,2019,2019,6,1,1,Import,480,Mauritius,MUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2804,,,,13520,,335780,,,2
+H5,2019,2019,2019,6,1,1,Import,496,Mongolia,MNG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,29,,,,466,,27159,,,0
+H5,2019,2019,2019,6,1,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1791,,44319,,,2
+H5,2019,2019,2019,6,1,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,183277,,,,2565886,,152261497,,,0
+H5,2019,2019,2019,6,1,2,Export,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,37,,,,520,,16036,,,0
+H5,2019,2019,2019,6,1,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,27334,,,,,,33042172,,,4
+H5,2019,2019,2019,6,1,2,Export,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,27,,,,,,10791,,,4
+H5,2019,2019,2019,6,1,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,3708,,113322,,,2
+H5,2019,2019,2019,6,1,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,64593,,,,927075,,26512097,,,0
+H5,2019,2019,2019,6,1,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,190,,,,3420,,44572,,,0
+H5,2019,2019,2019,6,1,1,Import,586,Pakistan,PAK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1105,,,,,,21928,,,4
+H5,2019,2019,2019,6,1,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,10724,,653234,,,2
+H5,2019,2019,2019,6,1,1,Import,604,Peru,PER,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3915,,,,67259,,3627818,,,0
+H5,2019,2019,2019,6,1,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9643,,,,,,513127,,,4
+H5,2019,2019,2019,6,1,2,Export,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,134,,,,,,6021,,,4
+H5,2019,2019,2019,6,1,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,69545,,,,841202,,12579370,,,0
+H5,2019,2019,2019,6,1,2,Export,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,46,,2534,,,0
+H5,2019,2019,2019,6,1,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,19,,,,140,,31223,,,0
+H5,2019,2019,2019,6,1,2,Export,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,6,,,,8,,41,,,0
+H5,2019,2019,2019,6,1,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11157,,,,160646,,1302473,,,0
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,369365,,7460522,,,2
+H5,2019,2019,2019,6,1,1,Import,688,Serbia,SRB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,222,,,,2624,,24991,,,0
+H5,2019,2019,2019,6,1,1,Import,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1036,,,,,,637067,,,4
+H5,2019,2019,2019,6,1,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,15904,,,,,,11045620,,,4
+H5,2019,2019,2019,6,1,2,Export,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,334,,,,,,169825,,,4
+H5,2019,2019,2019,6,1,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,8820,,,,127140,,4865189,,,0
+H5,2019,2019,2019,6,1,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,229131,,,6
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,168735,,,6
+H5,2019,2019,2019,6,1,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9878,,,,137739,,5725603,,,0
+H5,2019,2019,2019,6,1,1,Import,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",7,Volume in litres,1192182,,,,1192182,,11291819,,,0
+H5,2019,2019,2019,6,1,2,Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",7,Volume in litres,2226,,,,2226,,783,,,0
+H5,2019,2019,2019,6,1,3,Re-Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",7,Volume in litres,2226,,,,2226,,783,,,0
+H5,2019,2019,2019,6,1,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,42900,,,,531526,,42666217,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,268,,,,439,,3376,,,0
+H5,2019,2019,2019,6,1,1,Import,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,7,,252,,,2
+H5,2019,2019,2019,6,1,1,Import,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,115053,,,,1416345,,16831446,,,4
+H5,2019,2019,2019,6,1,2,Export,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,50,,1057,,,4
+H5,2019,2019,2019,6,1,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,35233,,,,521837,,40805062,,,0
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,31,,,,727,,20747,,,0
+H5,2019,2019,2019,6,1,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,5491640,,,6
+H5,2019,2019,2019,6,1,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,13020,,,6
+H5,2019,2019,2019,6,1,1,Import,784,United Arab Emirates,ARE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,39787,,2568535,,,2
+H5,2019,2019,2019,6,1,1,Import,788,Tunisia,TUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,13,,444,,,2
+H5,2019,2019,2019,6,1,1,Import,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,729,,,,9410,,528521,,,0
+H5,2019,2019,2019,6,1,1,Import,807,North Macedonia,MKD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,278,,,,5842,,189833,,,0
+H5,2019,2019,2019,6,1,1,Import,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,236447,,,,3250016,,91936535,,,0
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,727,,,,5275,,471604,,,0
+H5,2019,2019,2019,6,1,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,821033,,,,,,488510168,,,4
+H5,2019,2019,2019,6,1,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,764,,,,0,,193256,,,4
+H5,2019,2019,2019,6,1,3,Re-Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,56,,,,0,,57229,,,0
+H5,2019,2019,2019,6,1,1,Import,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,879,,,,12374,,566836,,,0
+H5,2019,2019,2019,6,1,1,Import,894,Zambia,ZMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1000,,755,,,2
+H4,2016,2016,2016,6,1,1,Import,20,Andorra,AND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,21684,,1234128,,,2
+H4,2016,2016,2016,6,1,1,Import,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,139,,,,1874,,44993,,,0
+H4,2016,2016,2016,6,1,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4733,,,,71408,,2985775,,,0
+H4,2016,2016,2016,6,1,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,99359,,,,1665539,,77358730,,,0
+H4,2016,2016,2016,6,1,2,Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,113,,,,530,,98683,,,0
+H4,2016,2016,2016,6,1,1,Import,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,455426,,18346666,,,2
+H4,2016,2016,2016,6,1,2,Export,40,Austria,AUT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,212,,19038,,,2
+H4,2016,2016,2016,6,1,1,Import,48,Bahrain,BHR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,828,,,,3434,,155395,,,0
+H4,2016,2016,2016,6,1,1,Import,51,Armenia,ARM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,63,,,,823,,26779,,,0
+H4,2016,2016,2016,6,1,1,Import,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1110812,,56434828,,,2
+H4,2016,2016,2016,6,1,2,Export,56,Belgium,BEL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1214,,115485,,,2
+H4,2016,2016,2016,6,1,1,Import,60,Bermuda,BMU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,14,,,,1052,,13751,,,4
+H4,2016,2016,2016,6,1,1,Import,70,Bosnia Herzegovina,BIH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,5898,,76815,,,0
+H4,2016,2016,2016,6,1,1,Import,76,Brazil,BRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11013,,,,128724,,9867356,,,0
+H4,2016,2016,2016,6,1,1,Import,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,244626,,347645,,,0
+H4,2016,2016,2016,6,1,1,Import,96,Brunei Darussalam,BRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,318,,,,20254,,264651,,,4
+H4,2016,2016,2016,6,1,1,Import,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2652,,,,27818,,145026,,,0
+H4,2016,2016,2016,6,1,2,Export,100,Bulgaria,BGR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,63,,,,705,,32335,,,0
+H4,2016,2016,2016,6,1,1,Import,112,Belarus,BLR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3316,,,,54252,,135100,,,0
+H4,2016,2016,2016,6,1,1,Import,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,191,,,,5720,,15659,,,0
+H4,2016,2016,2016,6,1,2,Export,116,Cambodia,KHM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1129,,,,15236,,122731,,,0
+H4,2016,2016,2016,6,1,1,Import,120,Cameroon,CMR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,7007,,6593,,,0
+H4,2016,2016,2016,6,1,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,98381,,,,,,74977221,,,0
+H4,2016,2016,2016,6,1,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,852,,,,0,,140596,,,4
+H4,2016,2016,2016,6,1,3,Re-Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,50,,,,0,,47954,,,0
+H4,2016,2016,2016,6,1,1,Import,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,220,,,,3525,,46061,,,4
+H4,2016,2016,2016,6,1,2,Export,144,Sri Lanka,LKA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,12,,,,29,,706,,,4
+H4,2016,2016,2016,6,1,1,Import,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,12847,,,,,,10371211,,,4
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,75995,,,,3613950,,47221825,,,4
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,681632,,,,1917758,,46590500,,,4
+H4,2016,2016,2016,6,1,1,Import,170,Colombia,COL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,14760,,,,202010,,12878414,,,0
+H4,2016,2016,2016,6,1,1,Import,188,Costa Rica,CRI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,120865,,4137796,,,2
+H4,2016,2016,2016,6,1,1,Import,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2723,,,,42324,,366459,,,0
+H4,2016,2016,2016,6,1,2,Export,191,Croatia,HRV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,28,,2731,,,0
+H4,2016,2016,2016,6,1,1,Import,196,Cyprus,CYP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,544,,,,8911,,103810,,,0
+H4,2016,2016,2016,6,1,1,Import,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,72957,,,,962764,,25788341,,,0
+H4,2016,2016,2016,6,1,2,Export,203,Czechia,CZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,145,,,,157,,14045,,,0
+H4,2016,2016,2016,6,1,1,Import,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,68776,,,,1006066,,18937272,,,0
+H4,2016,2016,2016,6,1,2,Export,208,Denmark,DNK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2,,,,75,,2764,,,0
+H4,2016,2016,2016,6,1,1,Import,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,590,,,,8741,,257068,,,0
+H4,2016,2016,2016,6,1,1,Import,222,El Salvador,SLV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,5353,,261972,,,2
+H4,2016,2016,2016,6,1,1,Import,231,Ethiopia,ETH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,90,,128,,,2
+H4,2016,2016,2016,6,1,1,Import,233,Estonia,EST,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5744,,,,80044,,1882936,,,0
+H4,2016,2016,2016,6,1,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,16634,,,,206693,,5409603,,,0
+H4,2016,2016,2016,6,1,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,16,,1026,,,0
+H4,2016,2016,2016,6,1,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,871909,,42255429,,,0
+H4,2016,2016,2016,6,1,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,3026,,334158,,,0
+H4,2016,2016,2016,6,1,1,Import,275,State of Palestine,PSE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,18678,,244051,,,4
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,227672,,,,3151720,,91197547,,,2
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,282,,,,2740,,684086,,,0
+H4,2016,2016,2016,6,1,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,1119,,1051,,,0
+H4,2016,2016,2016,6,1,1,Import,296,Kiribati,KIR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1398,,,,,,192277,,,4
+H4,2016,2016,2016,6,1,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,20985,,,,227532,,1168014,,,0
+H4,2016,2016,2016,6,1,1,Import,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,19934,,529122,,,0
+H4,2016,2016,2016,6,1,2,Export,320,Guatemala,GTM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,54,,40,,,0
+H4,2016,2016,2016,6,1,1,Import,340,Honduras,HND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,342777,,1353451,,,0
+H4,2016,2016,2016,6,1,1,Import,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,33071,,,,,,7050542,,,4
+H4,2016,2016,2016,6,1,2,Export,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,528,,,,,,290483,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,344,"China, Hong Kong SAR",HKG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,528,,,,,,290483,,,0
+H4,2016,2016,2016,6,1,1,Import,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5550,,,,73604,,441747,,,0
+H4,2016,2016,2016,6,1,2,Export,348,Hungary,HUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,13,,1639,,,0
+H4,2016,2016,2016,6,1,1,Import,352,Iceland,ISL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,316400,,,,44487,,1583457,,,0
+H4,2016,2016,2016,6,1,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,69383,,155623,,,0
+H4,2016,2016,2016,6,1,1,Import,364,Iran,IRN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,22917,,192217,,,2
+H4,2016,2016,2016,6,1,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,115234,,1656567,,,2
+H4,2016,2016,2016,6,1,1,Import,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,20405,,,,485362,,6342000,,,4
+H4,2016,2016,2016,6,1,1,Import,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,109705,,,,1551741,,27128481,,,0
+H4,2016,2016,2016,6,1,2,Export,381,Italy,ITA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,125,,,,790,,148782,,,0
+H4,2016,2016,2016,6,1,1,Import,384,Côte d'Ivoire,CIV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,437,,224,,,2
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,213965,,,,7960471,,104015815,,,4
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,30,,,,1174,,28527,,,4
+H4,2016,2016,2016,6,1,1,Import,398,Kazakhstan,KAZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3096,,,,44050,,314037,,,0
+H4,2016,2016,2016,6,1,2,Export,398,Kazakhstan,KAZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4,,,,39,,49,,,0
+H4,2016,2016,2016,6,1,1,Import,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,244,,,,4036,,41983,,,0
+H4,2016,2016,2016,6,1,1,Import,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,956390,,55039345,,,0
+H4,2016,2016,2016,6,1,2,Export,410,Rep. of Korea,KOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,74,,6035,,,0
+H4,2016,2016,2016,6,1,1,Import,414,Kuwait,KWT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1514,,,,11764,,232617,,,0
+H4,2016,2016,2016,6,1,1,Import,417,Kyrgyzstan,KGZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,50,,,,890,,7208,,,0
+H4,2016,2016,2016,6,1,1,Import,422,Lebanon,LBN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,9386,,427675,,,0
+H4,2016,2016,2016,6,1,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,463,,801,,,2
+H4,2016,2016,2016,6,1,1,Import,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5183,,,,73837,,953088,,,0
+H4,2016,2016,2016,6,1,1,Import,440,Lithuania,LTU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,769,,,,9537,,130121,,,0
+H4,2016,2016,2016,6,1,1,Import,442,Luxembourg,LUX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2536,,,,102426,,1644431,,,0
+H4,2016,2016,2016,6,1,1,Import,446,"China, Macao SAR",MAC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,3010,,28670,,,0
+H4,2016,2016,2016,6,1,1,Import,454,Malawi,MWI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1297,,,,12574,,33489,,,0
+H4,2016,2016,2016,6,1,1,Import,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,18748,,,,364760,,4766147,,,4
+H4,2016,2016,2016,6,1,2,Export,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,41,,,,1755,,42645,,,4
+H4,2016,2016,2016,6,1,1,Import,462,Maldives,MDV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,16,,,,410,,5354,,,4
+H4,2016,2016,2016,6,1,1,Import,470,Malta,MLT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,156,,,,2456,,62620,,,0
+H4,2016,2016,2016,6,1,1,Import,480,Mauritius,MUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2301,,,,,,406077,,,4
+H4,2016,2016,2016,6,1,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,12339860,,,0
+H4,2016,2016,2016,6,1,1,Import,496,Mongolia,MNG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,674,,,,9221,,248331,,,0
+H4,2016,2016,2016,6,1,1,Import,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,194,,,,2513,,44908,,,0
+H4,2016,2016,2016,6,1,1,Import,499,Montenegro,MNE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,416,,,,6313,,54490,,,0
+H4,2016,2016,2016,6,1,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,413,,11539,,,0
+H4,2016,2016,2016,6,1,1,Import,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,154617,,407354,,,2
+H4,2016,2016,2016,6,1,1,Import,516,Namibia,NAM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,45,,5334,,,0
+H4,2016,2016,2016,6,1,1,Import,524,Nepal,NPL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,777,,,,,,305796,,,4
+H4,2016,2016,2016,6,1,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,304159,,,,4258357,,162703062,,,0
+H4,2016,2016,2016,6,1,2,Export,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,110,,,,1545,,111776,,,0
+H4,2016,2016,2016,6,1,1,Import,554,New Zealand,NZL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,35076,,,,,,28187574,,,4
+H4,2016,2016,2016,6,1,1,Import,558,Nicaragua,NIC,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,6499,,218784,,,2
+H4,2016,2016,2016,6,1,1,Import,562,Niger,NER,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,160,,67,,,2
+H4,2016,2016,2016,6,1,1,Import,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,28040,,366389,,,4
+H4,2016,2016,2016,6,1,1,Import,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,88082,,,,1332931,,35948594,,,0
+H4,2016,2016,2016,6,1,2,Export,579,Norway,NOR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,140,,1020,,,0
+H4,2016,2016,2016,6,1,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,7,,90,,,4
+H4,2016,2016,2016,6,1,1,Import,586,Pakistan,PAK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,288,,,,397,,5182,,,4
+H4,2016,2016,2016,6,1,1,Import,591,Panama,PAN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,30057,,621850,,,0
+H4,2016,2016,2016,6,1,1,Import,600,Paraguay,PRY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,64200,,1437965,,,2
+H4,2016,2016,2016,6,1,1,Import,604,Peru,PER,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2218,,,,39639,,1887199,,,0
+H4,2016,2016,2016,6,1,1,Import,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,59593,,,,810133,,10750167,,,0
+H4,2016,2016,2016,6,1,2,Export,616,Poland,POL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,29,,42,,,0
+H4,2016,2016,2016,6,1,1,Import,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2307,,,,22251,,105951,,,0
+H4,2016,2016,2016,6,1,2,Export,620,Portugal,PRT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,23,,331,,,0
+H4,2016,2016,2016,6,1,1,Import,634,Qatar,QAT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,36890,,451763,,,2
+H4,2016,2016,2016,6,1,1,Import,642,Romania,ROU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9654,,,,153633,,1434890,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,24325,,,,365855,,4433057,,,0
+H4,2016,2016,2016,6,1,1,Import,682,Saudi Arabia,SAU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,104000,,698934,,,2
+H4,2016,2016,2016,6,1,1,Import,688,Serbia,SRB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,399,,3341,,,0
+H4,2016,2016,2016,6,1,1,Import,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4975,,,,76801,,1003517,,,4
+H4,2016,2016,2016,6,1,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,19,,457,,,4
+H4,2016,2016,2016,6,1,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,17299,,,,,,9285113,,,4
+H4,2016,2016,2016,6,1,2,Export,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2649,,,,2951,,84356,,,4
+H4,2016,2016,2016,6,1,1,Import,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,11391,,,,143077,,4369180,,,0
+H4,2016,2016,2016,6,1,2,Export,703,Slovakia,SVK,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3,,,,51,,7049,,,0
+H4,2016,2016,2016,6,1,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,486784,,,6
+H4,2016,2016,2016,6,1,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,6275,,179365,,,6
+H4,2016,2016,2016,6,1,1,Import,705,Slovenia,SVN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5453,,,,76581,,2799449,,,0
+H4,2016,2016,2016,6,1,1,Import,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,18396,,,,,,13254437,,,0
+H4,2016,2016,2016,6,1,2,Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,25,,715,,,4
+H4,2016,2016,2016,6,1,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,911669,,43331514,,,0
+H4,2016,2016,2016,6,1,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,333,,46081,,,0
+H4,2016,2016,2016,6,1,1,Import,748,Eswatini,SWZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,48,,1654,,,0
+H4,2016,2016,2016,6,1,1,Import,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,157312,,,,2126108,,22686056,,,4
+H4,2016,2016,2016,6,1,2,Export,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,36,,583,,,4
+H4,2016,2016,2016,6,1,1,Import,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,76261,,,,1127156,,70506535,,,0
+H4,2016,2016,2016,6,1,2,Export,757,Switzerland,CHE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4,,,,78,,11225,,,0
+H4,2016,2016,2016,6,1,1,Import,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,410418,,21014915,,,2
+H4,2016,2016,2016,6,1,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,18551,,308549,,,2
+H4,2016,2016,2016,6,1,1,Import,768,Togo,TGO,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,4158,,65319,,,2
+H4,2016,2016,2016,6,1,1,Import,784,United Arab Emirates,ARE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,89762,,3094209,,,2
+H4,2016,2016,2016,6,1,1,Import,792,Turkey,TUR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5182,,,,72781,,2573929,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,27,,,,177,,864,,,0
+H4,2016,2016,2016,6,1,1,Import,804,Ukraine,UKR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4001,,,,58964,,246748,,,0
+H4,2016,2016,2016,6,1,1,Import,807,North Macedonia,MKD,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,850,,,,13884,,339063,,,0
+H4,2016,2016,2016,6,1,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,134,,,,,,21147,,,4
+H4,2016,2016,2016,6,1,1,Import,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,415618,,,,6433909,,143125366,,,0
+H4,2016,2016,2016,6,1,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,14154,,,,6449,,648572,,,0
+H4,2016,2016,2016,6,1,1,Import,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,,,,,90,,1353,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,610889,,,,,,401844377,,,4
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2266,,,,0,,655334,,,4
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,538,,,,0,,94265,,,0
+H4,2016,2016,2016,6,1,1,Import,858,Uruguay,URY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1769,,,,24871,,1312126,,,0
+H4,2016,2016,2016,6,1,1,Import,894,Zambia,ZMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,1329,,17994,,,2
+H4,2017,2017,2017,6,1,1,Import,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,100,,,,1335,,10806,,,0
+H4,2017,2017,2017,6,1,1,Import,32,Argentina,ARG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9399,,,,143111,,8125929,,,0
+H4,2017,2017,2017,6,1,1,Import,84,Belize,BLZ,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,265901,,327812,,,2
+H4,2017,2017,2017,6,1,1,Import,120,Cameroon,CMR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,102,,175,,,2
+H4,2017,2017,2017,6,1,1,Import,231,Ethiopia,ETH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,180,,1439,,,2
+H4,2017,2017,2017,6,1,1,Import,268,Georgia,GEO,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,372,,,,5461,,51373,,,0
+H4,2017,2017,2017,6,1,1,Import,270,Gambia,GMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,12,,,,1390,,59,,,0
+H4,2017,2017,2017,6,1,1,Import,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,27552,,344738,,,2
+H4,2017,2017,2017,6,1,1,Import,384,Côte d'Ivoire,CIV,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,356,,120,,,2
+H4,2017,2017,2017,6,1,1,Import,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,5,,,,68,,180,,,0
+H4,2017,2017,2017,6,1,1,Import,454,Malawi,MWI,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,500,,384,,,0
+H4,2017,2017,2017,6,1,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,10555014,,,0
+H4,2017,2017,2017,6,1,1,Import,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,113,,,,1482,,28312,,,0
+H4,2017,2017,2017,6,1,1,Import,524,Nepal,NPL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,527,,,,27465,,368835,,,4
+H4,2017,2017,2017,6,1,2,Export,524,Nepal,NPL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,3,,,,4,,128,,,4
+H4,2017,2017,2017,6,1,1,Import,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,2192,,29439,,,6
+H4,2017,2017,2017,6,1,1,Import,585,Palau,PLW,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10,,,,,,2759,,,0
+H4,2017,2017,2017,6,1,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,10119,,,,147549,,461352,,,0
+H4,2017,2017,2017,6,1,2,Export,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,330,,,,957,,2963,,,0
+H4,2017,2017,2017,6,1,1,Import,634,Qatar,QAT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,66276,,536220,,,2
+H4,2017,2017,2017,6,1,1,Import,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,10,,462,,,2
+H4,2017,2017,2017,6,1,1,Import,682,Saudi Arabia,SAU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,208905,,1993520,,,2
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,29057,,,,517594,,6950865,,,4
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,936,,,,3250,,102560,,,4
+H4,2017,2017,2017,6,1,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,38274,,513707,,,6
+H4,2017,2017,2017,6,1,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,3014,,78702,,,6
+H4,2017,2017,2017,6,1,1,Import,784,United Arab Emirates,ARE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,63783,,2118948,,,2
+H4,2017,2017,2017,6,1,1,Import,788,Tunisia,TUN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,9,,201,,,0
+H4,2017,2017,2017,6,1,1,Import,800,Uganda,UGA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,10,,100,,,0
+H4,2017,2017,2017,6,1,1,Import,804,Ukraine,UKR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,2388,,,,34579,,163501,,,0
+H4,2017,2017,2017,6,1,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,50,,,,1824,,24492,,,4
+H4,2018,2018,2018,6,1,1,Import,231,Ethiopia,ETH,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,884,,32225,,,2
+H4,2018,2018,2018,6,1,1,Import,270,Gambia,GMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,34,,,,1442,,74,,,0
+H4,2018,2018,2018,6,1,1,Import,404,Kenya,KEN,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,62,,,,832,,24106,,,0
+H4,2018,2018,2018,6,1,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,14259160,,,0
+H4,2018,2018,2018,6,1,1,Import,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,314,,,,4239,,67726,,,0
+H4,2018,2018,2018,6,1,1,Import,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,48880,,22218,,,2
+H4,2018,2018,2018,6,1,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,9013,,,,34908,,515197,,,4
+H4,2018,2018,2018,6,1,2,Export,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,92,,,,198,,5404,,,4
+H4,2018,2018,2018,6,1,1,Import,634,Qatar,QAT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,52239,,664953,,,2
+H4,2018,2018,2018,6,1,1,Import,682,Saudi Arabia,SAU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,161697,,1071923,,,2
+H4,2018,2018,2018,6,1,1,Import,694,Sierra Leone,SLE,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,5200,,2146,,,2
+H4,2018,2018,2018,6,1,1,Import,804,Ukraine,UKR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,4301,,,,61508,,202360,,,0
+H4,2018,2018,2018,6,1,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,104,,,,847,,12509,,,4
+H4,2019,2019,2019,6,1,1,Import,270,Gambia,GMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,106,,,,3496,,140,,,0
+H4,2019,2019,2019,6,1,1,Import,484,Mexico,MEX,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,,,12093033,,,0
+H4,2019,2019,2019,6,1,1,Import,498,Rep. of Moldova,MDA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,379,,,,5066,,93194,,,0
+H4,2019,2019,2019,6,1,1,Import,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,106070,,153861,,,2
+H4,2019,2019,2019,6,1,1,Import,634,Qatar,QAT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,39693,,730470,,,0
+H4,2019,2019,2019,6,1,1,Import,662,Saint Lucia,LCA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,200,,119,,,0
+H4,2019,2019,2019,6,1,1,Import,682,Saudi Arabia,SAU,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",1,No Quantity,0,,,,90020,,986561,,,2
+H4,2019,2019,2019,6,1,1,Import,818,Egypt,EGY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",5,Number of items,1,,,,,,10,,,4
+H3,2016,2016,2016,6,1,1,Import,270,Gambia,GMB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",5,Number of items,57,,,,675,,36,,,0
+H3,2017,2017,2017,6,1,1,Import,659,Saint Kitts and Nevis,KNA,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",1,No Quantity,0,,,,268,,370,,,2
+H3,2017,2017,2017,6,1,2,Export,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",8,Weight in kilograms,18,,,,18,,301,,,0
+H3,2017,2017,2017,6,1,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",8,Weight in kilograms,18,,,,18,,301,,,0
+H3,2017,2017,2017,6,1,1,Import,740,Suriname,SUR,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",5,Number of items,1,,,,12,,1860,,,0
+H3,2018,2018,2018,6,1,1,Import,328,Guyana,GUY,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",5,Number of items,361,,,,5841,,21693,,,0
+H3,2019,2019,2019,6,1,1,Import,28,Antigua and Barbuda,ATG,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & other cycles (incl. delivery tricycles), not motorised",1,No Quantity,0,,,,14,,429,,,2
+H2,2016,2016,2016,6,1,1,Import,52,Barbados,BRB,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & oth. cycles (incl. delivery tricycles), not motorised",1,No Quantity,,,,,5168,,63673,,,0
+H2,2016,2016,2016,6,1,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & oth. cycles (incl. delivery tricycles), not motorised",5,Number of items,13327,,,,208841,,676927,,,0
+H2,2016,2016,2016,6,1,2,Export,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,871200,"Bicycles & oth. cycles (incl. delivery tricycles), not motorised",5,Number of items,159,,,,1433,,4540,,,0
